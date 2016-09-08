@@ -1,0 +1,15 @@
+.container {
+  margin-top: 20%;
+width: 750px;
+}
+.starter-template {
+  padding: 40px 50px;
+  text-align: center;
+}
+h1, h2, h3, h4, h5 {
+  color: #000000;
+}
+
+h3 {
+  width: 15px;
+}
